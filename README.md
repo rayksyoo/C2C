@@ -1,6 +1,4 @@
-# C2C
-Connectome-to-connectome (C2C) state transformation modeling.
-
+# C2C: connectome-to-connectome (C2C) state transformation modeling
 Paper: Yoo et al. A cognitive state transformation model for task-general and task-specific subsystems of the brain connectome. bioRxiv. https://doi.org/10.1101/2020.12.23.424176
 Contact: Kwangsun Yoo, PhD. kwangsun.yoo@yale.edu / rayksyoo@gmail.com
 
